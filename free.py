@@ -13341,9 +13341,3 @@ D  :D :)  :D :) :D  :D :P :)  ;) ;)  :D :) :D  :D :D :P  :D :D =/  :S \
   :D :D :P  :D :D =/  =) :{  :D :)  ;)  :D :) :D  :D :P :)  :D :) =)  \
 :D :D =/  :( :)  :( :D"
 .split("  ")])))
-
-# Encrypted By PyFuscate (https://github.com/htr-tech/PyFuscate)
-
-# PyFuscate Created By Tahmid Rayat
-# Github : github.com/htr-tech
-# Instagram : @tahmid.rayat
